@@ -7,6 +7,7 @@ Welcome to the QR Code Generator—where creating stylish QR codes is as easy as
 📇 Effortless Contact Codes: Store and share your contact details with a personalized QR code.
 📝 Versatile Text Codes: Convert any text into a neat and shareable QR code.
 🎨 Customizable Designs: Choose from a variety of colors and styles to make your QR codes stand out!
+
 🌐 Live Demo
 Check out the live application <a href="https://guhanqrcode.vercel.app/">HERE</a> and start generating QR codes instantly! 🎉
 
